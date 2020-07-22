@@ -1,0 +1,12 @@
+E:\New folder (2)\School-Management-System\EchoTask\Entities\bin\Release\Entities.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\Entities\bin\Release\Entities.dll
+E:\New folder (2)\School-Management-System\EchoTask\Entities\bin\Release\Entities.pdb
+E:\New folder (2)\School-Management-System\EchoTask\Entities\bin\Release\EntityFramework.dll
+E:\New folder (2)\School-Management-System\EchoTask\Entities\bin\Release\EntityFramework.SqlServer.dll
+E:\New folder (2)\School-Management-System\EchoTask\Entities\bin\Release\EntityFramework.xml
+E:\New folder (2)\School-Management-System\EchoTask\Entities\bin\Release\EntityFramework.SqlServer.xml
+E:\New folder (2)\School-Management-System\EchoTask\Entities\obj\Release\Entities.csprojAssemblyReference.cache
+E:\New folder (2)\School-Management-System\EchoTask\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+E:\New folder (2)\School-Management-System\EchoTask\Entities\obj\Release\Entities.csproj.CopyComplete
+E:\New folder (2)\School-Management-System\EchoTask\Entities\obj\Release\Entities.dll
+E:\New folder (2)\School-Management-System\EchoTask\Entities\obj\Release\Entities.pdb

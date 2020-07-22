@@ -1,0 +1,34 @@
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\Services.dll
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\Services.pdb
+D:\Visual\Echo_Task\EchoTask\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Visual\Echo_Task\EchoTask\Services\obj\Debug\Services.dll
+D:\Visual\Echo_Task\EchoTask\Services\obj\Debug\Services.pdb
+D:\Visual\Echo_Task\EchoTask\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\Entities.dll
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\Repositories.dll
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\ViewModels.dll
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\EntityFramework.dll
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\Entities.pdb
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\Entities.dll.config
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\Repositories.pdb
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\Repositories.dll.config
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\ViewModels.pdb
+D:\Visual\Echo_Task\EchoTask\Services\bin\Debug\EntityFramework.xml
+D:\Visual\Echo_Task\EchoTask\Services\obj\Debug\Services.csproj.CopyComplete
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\Services.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\Services.pdb
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\Entities.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\Repositories.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\ViewModels.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\EntityFramework.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\Entities.pdb
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\Entities.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\Repositories.pdb
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\Repositories.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\ViewModels.pdb
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Debug\EntityFramework.xml
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Debug\Services.csprojAssemblyReference.cache
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Debug\Services.csproj.CopyComplete
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Debug\Services.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Debug\Services.pdb

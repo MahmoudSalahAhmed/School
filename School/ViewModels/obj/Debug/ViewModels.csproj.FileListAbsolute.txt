@@ -1,0 +1,24 @@
+D:\Visual\Echo_Task\EchoTask\ViewModels\bin\Debug\ViewModels.dll
+D:\Visual\Echo_Task\EchoTask\ViewModels\bin\Debug\ViewModels.pdb
+D:\Visual\Echo_Task\EchoTask\ViewModels\bin\Debug\Entities.dll
+D:\Visual\Echo_Task\EchoTask\ViewModels\bin\Debug\EntityFramework.dll
+D:\Visual\Echo_Task\EchoTask\ViewModels\bin\Debug\Entities.pdb
+D:\Visual\Echo_Task\EchoTask\ViewModels\bin\Debug\Entities.dll.config
+D:\Visual\Echo_Task\EchoTask\ViewModels\bin\Debug\EntityFramework.xml
+D:\Visual\Echo_Task\EchoTask\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+D:\Visual\Echo_Task\EchoTask\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+D:\Visual\Echo_Task\EchoTask\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+D:\Visual\Echo_Task\EchoTask\ViewModels\obj\Debug\ViewModels.dll
+D:\Visual\Echo_Task\EchoTask\ViewModels\obj\Debug\ViewModels.pdb
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\bin\Debug\ViewModels.dll
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\bin\Debug\ViewModels.pdb
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\bin\Debug\Entities.dll
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\bin\Debug\EntityFramework.dll
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\bin\Debug\Entities.pdb
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\bin\Debug\Entities.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\bin\Debug\EntityFramework.xml
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\obj\Debug\ViewModels.dll
+E:\New folder (2)\School-Management-System\EchoTask\ViewModels\obj\Debug\ViewModels.pdb

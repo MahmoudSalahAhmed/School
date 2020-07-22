@@ -1,0 +1,58 @@
+﻿@using ViewModels
+@model StudentViewModel
+
+
+<br><br>
+<div class="row">
+    <a href="@Url.Action("Student", "Student")" class="editbtn"><i class="fa fa-chevron-left" style="margin-right: 20px;"></i>back</a>
+</div>
+<br>
+<div class="card-body">
+    <h5 class="card-title" style="color:#980827">Add Student </h5>
+
+    @using (Html.BeginForm("Update", "Student", FormMethod.Post))
+    {
+        <div class="form-row">
+            <div class="col-md-4">
+                <div class="position-relative form-group">
+                    <label for="name" class="">ClassRoom</label>
+                    @Html.DropDownListFor(i => i.ClassRoomID, new SelectList(ViewBag.Classes, "ID", "Name"), new { @class = "form-control" })
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="form-row">
+            <div class="col-md-4">
+
+                <div class="position-relative form-group">
+                    <label for="name" class="">Name</label>
+                    @Html.TextBoxFor(i => i.User.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(i => i.User.Name)
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="position-relative form-group">
+                    <label for="email" class="">Email</label>
+                    @Html.TextBoxFor(i => i.User.Email, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(i => i.User.Email)
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="position-relative form-group">
+                    <label for="phone" class="">Phone</label>
+                    @Html.TextBoxFor(i => i.User.Phone, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(i => i.User.Phone)
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <button type="submit" style="background-color:#256154" class="editbtn">Update</button>
+    }
+
+</div>
+
+
+

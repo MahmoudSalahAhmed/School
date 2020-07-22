@@ -1,0 +1,53 @@
+﻿@using ViewModels
+@model StudentViewModel
+
+
+
+<br><br>
+
+<table class="mb-2 table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>E-mail</th>
+            <th>Phone</th>
+            <th>CLass</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+            <tr>
+                <th scope="row">@Model.ID</th>
+                <td>@Model.User.Name </td>
+                <td>@Model.User.Email</td>
+                <td>@Model.User.Phone</td>
+                <th>@Model.ClassRoom.Name</th>
+                <td>
+                    
+                        
+                        
+                    
+                </td>
+            </tr>
+
+       
+    </tbody>
+</table>
+<div class="row">
+    <a class="dropdown-item mm-active">
+        @Html.ActionLink("Update", "Update", "Student", new { id = Model.ID }, new { @class = "editbtn" })
+    </a>
+
+    <a class="dropdown-item">
+        @Html.ActionLink("Delete", "Delete", "Student", new { id = Model.ID }, new { @class = "editbtn" })
+
+    </a>
+</div>
+
+
+
+
+
+
+

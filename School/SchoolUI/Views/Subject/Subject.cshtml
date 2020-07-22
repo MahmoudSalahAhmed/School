@@ -1,0 +1,48 @@
+﻿@using ViewModels
+@model IEnumerable<SubjectViewModel>
+
+
+<br><br>
+<div class="row">
+    @Html.ActionLink("Add Subject", "Add", "Subject", null, new { @class = "editbtn" })
+</div>
+<br>
+<div class="card-body">
+    <h5 class="card-title" style="color:#980827">Subject</h5>
+
+    <table class="mb-2 table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (SubjectViewModel Subject in Model)
+            {
+            <tr>
+                <th scope="row">@Subject.ID</th>
+                <td>@Subject.Name</td>
+                <td>
+                    <a href="@Url.Action("Update","Subject", new { id = Subject.ID })" class="fa fa-pencil"
+                       aria-hidden="true" style="font-size:25px ; color :#17700f">
+                    </a>
+                </td>
+                <td>
+                    <a href="@Url.Action("Delete","Subject", new { id = Subject.ID })" class="fa fa-trash"
+                       aria-hidden="true" style="font-size:25px ; color :#821d1d">
+                    </a>
+                </td>
+            </tr>
+            }
+
+        </tbody>
+    </table>
+
+</div>
+
+
+
+

@@ -1,0 +1,89 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>ECHO School</title>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
+    <meta name="description" content="Example of a Dashboard page built with Architect.">
+    <meta name="msapplication-tap-highlight" content="no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link href="~/Content/css/bootstrap.css" rel="stylesheet">
+    <link href="~/Content/Css/Style.css" rel="stylesheet">
+</head>
+<body>
+
+    
+
+    <nav class="navbar navbar-expand-sm  navbar-dark fixed-top" style="height:70px;background-color: #1f1f22;-webkit-box-shadow: -2px 3px 18px -5px rgba(97,97,97,1);
+-moz-box-shadow: -2px 3px 18px -5px rgba(97,97,97,1);
+box-shadow: -2px 3px 18px -5px rgba(97,97,97,1);">
+        <img src="../assets/toppng.com-shiningstarglobal-school-school-logo-design-3867x3701.png"
+             style="width: 50px;height: 50px;">
+        <div id="navbarSupportedContent" class="collapse navbar-collapse">
+            <ul class="navbar-nav ml-auto">
+               
+                <li class="nav-item">
+                    <a href="@Url.Action("LogOut", "Home")" class="nav-link">
+                        Log Out
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-2 col-xs-12">
+                <div class="sidebar">
+                    <br />
+                    @Html.ActionLink("Home", "Index", "Home", null, new { @class = "mm-active" })
+                    @Html.ActionLink("CLassRooms", "ClassRoom", "ClassRoom", null, new { @class = "mm-active" })
+                    @Html.ActionLink("Subjects", "Subject", "Subject", null, new { @class = "mm-active" })
+                    @Html.ActionLink("Lessons", "Lesson", "Lesson", null, new { @class = "mm-active" })
+                    @Html.ActionLink("Teachers", "Teacher", "Teacher", null, new { @class = "mm-active" })
+                    @Html.ActionLink("Students", "Student", "Student", null, new { @class = "mm-active" })
+                </div>
+            </div>
+            <div class="col-md-10 col-xs-12">
+                <div class="content text-center">
+
+                    @RenderBody()
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+        
+        
+
+
+
+
+
+        @*<div class="app-wrapper-footer">
+            <div class="app-footer">
+                <div class="app-footer__inner">
+                    <div class="app-footer-left">
+                        <p>© 2020 - School-MS</p>
+                    </div>
+                    <div class="app-footer-right">
+
+                    </div>
+                </div>
+            </div>
+        </div>*@
+
+
+
+        <script type="text/javascript" src="~/Scripts/Js/jquery-3.4.1.slim.min.js"></script>
+        <script type="text/javascript" src="~/Scripts/Js/bootstrap.min.js"></script>
+</body>
+
+</html>

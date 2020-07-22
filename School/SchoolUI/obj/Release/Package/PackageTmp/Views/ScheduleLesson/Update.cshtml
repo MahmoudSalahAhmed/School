@@ -1,0 +1,79 @@
+﻿@using ViewModels
+@model ScheduleLessonViewModel
+
+
+<br><br>
+
+<div class="card-body">
+    <h5 class="card-title" style="color:#980827">Update Schedule Lessons</h5>
+
+    @using (Html.BeginForm("Update", "ScheduleLesson", FormMethod.Post))
+    {
+        <div class="form-row">
+            <div class="col-md-4">
+                <div class="position-relative form-group">
+                    <label for="name" class="">Lesson</label>
+                    @Html.DropDownListFor(i => i.LessonID, new SelectList(ViewBag.Lessons, "ID", "Name"), new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="position-relative form-group">
+                    <label for="name" class="">Teacher</label>
+                    @Html.DropDownListFor(i => i.TeacherID, new SelectList(ViewBag.Teachers, "ID", "Name"), new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="position-relative form-group">
+                    <label for="name" class="">Subject</label>
+                    @Html.DropDownListFor(i => i.SubjectID, new SelectList(ViewBag.Subjects, "ID", "Name"), new { @class = "form-control" })
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" style="background-color:#256154" class="editbtn">Update</button>
+    }
+
+</div>
+<br />
+<div class="row">
+    @if (ViewBag.Schedule.ScheduleLessons != null)
+    {
+
+
+        <table class="mb-2 table table-hover table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Lesson</th>
+                    <th>Teacher</th>
+                    <th>Subject</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var ScheduleLesson in ViewBag.Schedule.ScheduleLessons)
+                {
+                <tr>
+                    <th><strong>@ScheduleLesson.Lesson.Name</strong></th>
+                    <th><strong>@ScheduleLesson.Teacher.User.Name</strong></th>
+                    <th><strong>@ScheduleLesson.Subject.Name</strong></th>
+                    <th>
+                        <a href="@Url.Action("Update","ScheduleLesson", new { id = ScheduleLesson.ID })" class="fa fa-pencil"
+                           aria-hidden="true" style="font-size:25px ; color :#17700f">
+                        </a>
+                    </th>
+                    <th>
+                        <a href="@Url.Action("Delete","ScheduleLesson", new { id = ScheduleLesson.ID })" class="fa fa-trash"
+                           aria-hidden="true" style="font-size:25px ; color :#821d1d">
+                        </a>
+                    </th>
+                </tr>
+                }
+
+            </tbody>
+        </table>
+    }
+</div>
+
+
+

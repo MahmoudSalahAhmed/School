@@ -1,0 +1,351 @@
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    overflow: hidden;
+    background: linear-gradient(271deg, #8d8b8b, #c8c7c7, #8d8b8b);
+    background-size: 600% 600%;
+    -webkit-animation: AnimationName 17s ease infinite;
+    animation: AnimationName 17s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@keyframes AnimationName {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+#form_wrapper {
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    background-color: #ffffff;
+    border-radius: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5vw;
+    padding: 5vh 15px;
+    -webkit-box-shadow: 1px 3px 15px 4px rgba(173,173,173,1);
+    -moz-box-shadow: 1px 3px 15px 4px rgba(173,173,173,1);
+    box-shadow: 1px 3px 15px 4px rgba(173,173,173,1);
+}
+
+#form_left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    #form_left img {
+        width: 450px;
+        height: 450px;
+    }
+
+#form_right {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    padding: 10% 5%;
+}
+
+.input_container {
+    background-color: #E5E5E5;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+    .input_container:hover {
+        background-color: #eaeaea;
+        color: #ac0d2f;
+    }
+
+.input_container,
+#input_submit {
+    height: 60px;
+    border-radius: 30px;
+    width: 100%;
+}
+
+.input_field {
+    color: #6b6b6b;
+    background-color: inherit;
+    width: 90%;
+    border: none;
+    font-size: 1.3rem;
+    font-weight: 400;
+    padding-left: 30px;
+}
+
+    .input_field:hover,
+    .input_field:focus {
+        outline: none;
+        color: #980827;
+    }
+
+#input_submit {
+    background-color: #980827;
+    padding-left: 0;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+    #input_submit:hover {
+        background-color: #d61a43;
+        transition: background-color, 1s;
+        cursor: pointer;
+    }
+
+h1,
+span {
+    text-align: center;
+    color: #980827;
+}
+
+#create_account {
+    display: block;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: #980827;
+    font-weight: bold;
+}
+
+    i:hover, a:hover {
+        color: #ad1334;
+    }
+
+i {
+    color: #6b6b6b;
+}
+
+@media screen and (max-width:768px) {
+
+    #form_wrapper {
+        grid-template-columns: 1fr;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #form_left {
+        display: none;
+    }
+}
+
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #1f1f22;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    margin-top: 60px;
+    margin-left: -15px;
+    text-align: center;
+}
+
+    /* Sidebar links */
+    .sidebar a {
+        display: block;
+        color: white;
+        padding: 16px;
+        text-decoration: none;
+    }
+
+        /* Active/current link */
+        .sidebar a.active {
+            background-color: #980827;
+            color: white;
+        }
+
+        /* Links on mouse-over */
+        .sidebar a:hover:not(.active) {
+            background-color: #980827;
+            color: white;
+        }
+
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+div.content {
+    margin-top: 50px;
+    margin-left: -15px;
+}
+
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
+@media screen and (max-width: 700px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+        .sidebar a {
+            float: left;
+        }
+
+    div.content {
+        margin-left: 0;
+    }
+}
+
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+    .sidebar a {
+        text-align: center;
+        float: none;
+    }
+}
+
+.content {
+    top: 200px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.editbtn {
+    display: block;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background-color: #980827;
+    width: 310px;
+    height: 70px;
+    border-radius: 30px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #6d051b;
+    background-size: 100% 100%;
+    box-shadow: 0 0 0 7px #980827 inset;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.goback {
+    margin-right: 20px;
+}
+
+.editbtn:hover {
+    background-image: linear-gradient( 145deg, transparent 10%, #750f26 10% 20%, transparent 20% 30%, #750f26 30% 40%, transparent 40% 50%, #750f26 50% 60%, transparent 60% 70%, #750f26 70% 80%, transparent 80% 90%, #750f26 90% 100% );
+    animation: background 3s linear infinite;
+}
+
+@keyframes background {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 400px 0;
+    }
+}
+    .card-body {
+    background-color: rgb(202, 202, 202);
+    -webkit-box-shadow: -1px 2px 17px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 2px 17px -2px rgba(0,0,0,0.75);
+    box-shadow: -1px 2px 17px -2px rgba(0,0,0,0.75);
+}
+
+
+.statistics {
+    margin-bottom: 80px;
+}
+.custom .card {
+    background-color: rgb(202, 202, 202);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 15rem;
+    height: 10rem;
+}
+
+    .custom .card h2 {
+        color: black;
+        margin-top: 35px;
+        box-sizing: border-box;
+        line-height: 28px;
+        font-size: 28px;
+        font-weight: bold;
+    }
+    .custom .card p {
+        margin-top: 5px;
+        color: #c91919;
+        font-size: 34px;
+        font-weight: bold;
+    }
+
+.custom .card-title {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+@media screen and (max-width:768px) {
+    .statistics {
+        margin-bottom: 20px;
+        text-align:center
+    }
+   
+}
+
+.custom .card:hover {
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+    0% {
+        transform: translate(1px, 1px) rotate(0deg);
+    }
+
+    20% {
+        transform: translate(-3px, 0px) rotate(1deg);
+    }
+
+    40% {
+        transform: translate(1px, -1px) rotate(1deg);
+    }
+
+    60% {
+        transform: translate(-3px, 1px) rotate(0deg);
+    }
+
+    80% {
+        transform: translate(-1px, -1px) rotate(1deg);
+    }
+
+    100% {
+        transform: translate(1px, -2px) rotate(-1deg);
+    }
+}

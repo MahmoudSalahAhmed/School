@@ -1,0 +1,394 @@
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\SchoolUI.dll.config
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\SchoolUI.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\SchoolUI.pdb
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\csc.exe
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\csc.exe.config
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\csc.rsp
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\csi.exe
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\csi.exe.config
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\csi.rsp
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.AppContext.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Console.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.IO.Compression.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.IO.Pipes.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Security.AccessControl.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Security.Claims.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.ValueTuple.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Xml.XPath.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\vbc.exe
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\vbc.exe.config
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\vbc.rsp
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\VBCSCompiler.exe
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Antlr3.Runtime.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Newtonsoft.Json.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.Helpers.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.Mvc.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.Optimization.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.Razor.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.WebPages.Deployment.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.WebPages.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.WebPages.Razor.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\WebGrease.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.Helpers.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.Mvc.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.Optimization.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.Razor.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.WebPages.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.WebPages.Deployment.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Web.WebPages.Razor.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Newtonsoft.Json.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Antlr3.Runtime.pdb
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\obj\Debug\SchoolUI.csprojAssemblyReference.cache
+D:\Visual\Echo_Task\EchoTask\SchoolUI\obj\Debug\SchoolUI.csproj.CoreCompileInputs.cache
+D:\Visual\Echo_Task\EchoTask\SchoolUI\obj\Debug\SchoolUI.csproj.CopyComplete
+D:\Visual\Echo_Task\EchoTask\SchoolUI\obj\Debug\SchoolUI.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\obj\Debug\SchoolUI.pdb
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\EntityFramework.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\EntityFramework.SqlServer.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\EntityFramework.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\EntityFramework.SqlServer.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Microsoft.Win32.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\netstandard.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.AppContext.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Collections.Concurrent.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Collections.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Collections.NonGeneric.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Collections.Specialized.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.ComponentModel.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.ComponentModel.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.ComponentModel.TypeConverter.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Console.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Data.Common.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Diagnostics.Contracts.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Diagnostics.Debug.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Diagnostics.Process.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Diagnostics.StackTrace.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Diagnostics.Tools.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Diagnostics.TraceSource.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Diagnostics.Tracing.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Drawing.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Dynamic.Runtime.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Globalization.Calendars.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Globalization.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Globalization.Extensions.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.Compression.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.Compression.ZipFile.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.FileSystem.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.FileSystem.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.FileSystem.Watcher.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.IsolatedStorage.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.MemoryMappedFiles.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.Pipes.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Linq.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Linq.Expressions.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Linq.Parallel.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Linq.Queryable.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.Http.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.NameResolution.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.NetworkInformation.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.Ping.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.Requests.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.Security.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.Sockets.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.WebHeaderCollection.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.WebSockets.Client.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Net.WebSockets.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.ObjectModel.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Reflection.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Reflection.Extensions.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Reflection.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Resources.Reader.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Resources.ResourceManager.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Resources.Writer.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.Extensions.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.Handles.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.InteropServices.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.Numerics.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.Serialization.Formatters.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.Serialization.Json.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.Serialization.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.Serialization.Xml.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Security.Claims.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Security.Cryptography.Algorithms.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Security.Cryptography.Csp.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Security.Cryptography.Encoding.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Security.Cryptography.Primitives.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Security.Principal.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Security.SecureString.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Text.Encoding.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Text.Encoding.Extensions.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Text.RegularExpressions.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Threading.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Threading.Overlapped.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Threading.Tasks.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Threading.Tasks.Parallel.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Threading.Thread.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Threading.ThreadPool.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Threading.Timer.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.ValueTuple.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Xml.ReaderWriter.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Xml.XDocument.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Xml.XmlDocument.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Xml.XmlSerializer.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Xml.XPath.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Xml.XPath.XDocument.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Autofac.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Autofac.Integration.Mvc.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Repositories.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Services.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Threading.Tasks.Extensions.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\ViewModels.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Entities.dll
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Repositories.pdb
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Repositories.dll.config
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Services.pdb
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\ViewModels.pdb
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Autofac.pdb
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Autofac.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Autofac.Integration.Mvc.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\System.Threading.Tasks.Extensions.xml
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Entities.pdb
+D:\Visual\Echo_Task\EchoTask\SchoolUI\bin\Entities.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\SchoolUI.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\SchoolUI.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\SchoolUI.pdb
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\csc.exe
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\csc.exe.config
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\csc.rsp
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\csi.exe
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\csi.exe.config
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\csi.rsp
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.AppContext.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Console.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.IO.Compression.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.IO.FileSystem.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.IO.Pipes.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Security.AccessControl.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Security.Claims.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.ValueTuple.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Xml.XPath.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\vbc.exe
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\vbc.exe.config
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\vbc.rsp
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\VBCSCompiler.exe
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Microsoft.Win32.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\netstandard.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.AppContext.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Collections.Concurrent.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Collections.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Collections.NonGeneric.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Collections.Specialized.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.ComponentModel.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.ComponentModel.EventBasedAsync.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.ComponentModel.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.ComponentModel.TypeConverter.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Console.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Data.Common.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Diagnostics.Contracts.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Diagnostics.Debug.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Diagnostics.FileVersionInfo.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Diagnostics.Process.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Diagnostics.StackTrace.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Diagnostics.Tools.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Diagnostics.TraceSource.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Diagnostics.Tracing.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Drawing.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Dynamic.Runtime.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Globalization.Calendars.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Globalization.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Globalization.Extensions.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.Compression.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.Compression.ZipFile.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.FileSystem.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.FileSystem.DriveInfo.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.FileSystem.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.FileSystem.Watcher.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.IsolatedStorage.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.MemoryMappedFiles.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.Pipes.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.IO.UnmanagedMemoryStream.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Linq.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Linq.Expressions.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Linq.Parallel.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Linq.Queryable.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.Http.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.NameResolution.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.NetworkInformation.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.Ping.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.Requests.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.Security.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.Sockets.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.WebHeaderCollection.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.WebSockets.Client.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Net.WebSockets.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.ObjectModel.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Reflection.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Reflection.Extensions.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Reflection.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Resources.Reader.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Resources.ResourceManager.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Resources.Writer.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.Extensions.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.Handles.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.InteropServices.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.Numerics.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.Serialization.Formatters.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.Serialization.Json.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.Serialization.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.Serialization.Xml.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Security.Claims.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Security.Cryptography.Algorithms.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Security.Cryptography.Csp.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Security.Cryptography.Encoding.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Security.Cryptography.Primitives.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Security.Cryptography.X509Certificates.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Security.Principal.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Security.SecureString.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Text.Encoding.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Text.Encoding.Extensions.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Text.RegularExpressions.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Threading.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Threading.Overlapped.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Threading.Tasks.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Threading.Tasks.Parallel.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Threading.Thread.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Threading.ThreadPool.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Threading.Timer.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.ValueTuple.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Xml.ReaderWriter.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Xml.XDocument.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Xml.XmlDocument.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Xml.XmlSerializer.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Xml.XPath.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Xml.XPath.XDocument.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Antlr3.Runtime.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Autofac.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Autofac.Integration.Mvc.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\EntityFramework.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\EntityFramework.SqlServer.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Newtonsoft.Json.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Repositories.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Services.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Threading.Tasks.Extensions.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.Helpers.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.Mvc.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.Optimization.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.Razor.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.WebPages.Deployment.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.WebPages.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.WebPages.Razor.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\ViewModels.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\WebGrease.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Entities.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Repositories.pdb
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Repositories.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Services.pdb
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\ViewModels.pdb
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Autofac.pdb
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Autofac.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Autofac.Integration.Mvc.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\EntityFramework.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\EntityFramework.SqlServer.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Threading.Tasks.Extensions.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.Helpers.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.Mvc.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.Optimization.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.Razor.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.WebPages.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.WebPages.Deployment.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\System.Web.WebPages.Razor.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Newtonsoft.Json.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Antlr3.Runtime.pdb
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Entities.pdb
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\bin\Entities.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\obj\Debug\SchoolUI.csprojAssemblyReference.cache
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\obj\Debug\SchoolUI.csproj.CoreCompileInputs.cache
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\obj\Debug\SchoolUI.csproj.CopyComplete
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\obj\Debug\SchoolUI.dll
+E:\New folder (2)\School-Management-System\EchoTask\SchoolUI\obj\Debug\SchoolUI.pdb

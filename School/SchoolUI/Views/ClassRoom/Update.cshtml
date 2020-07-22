@@ -1,0 +1,30 @@
+﻿@using ViewModels
+@model ClassRoomViewModel
+
+
+<br>
+<br>
+<div class="row">
+    <a href="@Url.Action("ClassRoom", "ClassRoom")" class="editbtn"><i class="fa fa-chevron-left" style="margin-right: 20px;"></i>back</a>
+</div>
+<br>
+<div class="card-body">
+    <h5 class="card-title" style="color:#980827">Update ClassRoom</h5>
+
+    @using (Html.BeginForm("Update", "ClassRoom", FormMethod.Post))
+    {
+        <div class="form-row">
+            <div class="col-md-4">
+                <div class="position-relative form-group">
+                    <label for="name">Name</label>
+                    @Html.TextBoxFor(i => i.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(i => i.Name)
+                </div>
+            </div>
+
+        </div>
+
+        <button type="submit" class="editbtn">Update</button>
+    }
+
+</div>

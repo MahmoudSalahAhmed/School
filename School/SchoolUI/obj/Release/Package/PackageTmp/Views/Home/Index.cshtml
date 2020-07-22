@@ -1,0 +1,58 @@
+﻿@using ViewModels
+@model StatisticsViewModel
+
+
+<br> <br> <br><br><br>
+
+
+    <div class="row">
+        
+        <div class="col-md-4 col-xs-12 statistics">
+            <a class="custom" href="@Url.Action("ClassRoom","ClassRoom",null)" >
+                <div class="card">
+                        <h2 class="card-title">ClassRooms</h2>
+                        <p >@Model.ClassRooms</p>
+                </div>
+            </a>
+        </div>
+        
+       
+        <div class="col-md-4 col-xs-12 statistics">
+            <a class="custom" href="@Url.Action("Teacher","Teacher",null)">
+                <div class="card">
+                        <h2 class="card-title">Teachers</h2>
+                        <p>@Model.Teachers</p>
+                </div>
+            </a>
+        </div>
+        
+        
+        <div class="col-md-4 col-xs-12 statistics">
+            <a class="custom" href="@Url.Action("Student","Student",null)">
+                <div class="card" style="">
+                        <h2 class="card-title">Students</h2>
+                        <p>@Model.Students</p>
+                </div>
+            </a>
+        </div>
+       
+        <div  class="col-md-4 col-xs-12 statistics">
+            <a class="custom" href="@Url.Action("Subject","Subject",null)">
+                <div class="card" style="width: 15rem; height: 10rem;">
+                        <h2 class="card-title">Subjects</h2>
+                        <p>@Model.Subjects</p>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4 col-xs-12 statistics">
+            <a class="custom" href="@Url.Action("Lesson","Lesson",null)">
+                <div class="card">
+                        <h2 class="card-title">Lessons</h2>
+                        <p>@Model.Lessons</p>
+                </div>
+            </a>
+        </div>
+
+    </div>
+
+

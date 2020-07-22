@@ -1,0 +1,53 @@
+﻿@using ViewModels
+@model IEnumerable<ClassRoomViewModel>
+
+<br><br>
+<div class="row">
+    @Html.ActionLink("Add Class", "Add", "ClassRoom", null, new { @class = "editbtn" })
+</div>
+<br>
+
+<div class="card-body">
+    <h5 class="card-title" style="color:#980827">Classes Index</h5>
+
+    <table class="mb-2 table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Edit</th>
+                <th>Delete</th>
+                <th>Schedule</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (ClassRoomViewModel classRoom in Model)
+            {
+            <tr>
+                <th scope="row">@classRoom.ID</th>
+                <td>@classRoom.Name</td>
+                <td>
+                    <a href="@Url.Action("Update","ClassRoom", new { id = classRoom.ID })" class="fa fa-pencil"
+                       aria-hidden="true" style="font-size:25px ; color :#17700f">
+                    </a>
+                </td>
+                <td>
+                    <a href="@Url.Action("Delete","ClassRoom", new { id = classRoom.ID })" class="fa fa-trash"
+                       aria-hidden="true" style="font-size:25px ; color :#821d1d">
+                    </a>
+                </td>
+                <td>
+                    <a href="@Url.Action("Details","ClassRoom", new { id = classRoom.ID })" class="fa fa-long-arrow-right" 
+                   aria-hidden="true" style="font-size:30px ; color :#7d34e6" ></a>
+                </td>
+               
+            </tr>
+            }
+
+        </tbody>
+    </table>
+
+</div>
+
+
+

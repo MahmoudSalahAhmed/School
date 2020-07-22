@@ -1,0 +1,53 @@
+﻿@using ViewModels
+@model TeacherEditViewModel
+
+
+
+<br><br>
+    <div class="row">
+        
+        <a href="@Url.Action("Teacher", "Teacher")"  class="editbtn"><i class="fa fa-chevron-left" style="margin-right: 20px;"></i>Go back</a>
+    </div>
+<br>
+<div class="card-body">
+    <h5 class="card-title" style="color:#980827">Add Teacher </h5>
+
+    @using (Html.BeginForm("Add", "Teacher", FormMethod.Post))
+    {
+    <div class="form-row">
+        <div class="col-md-4">
+            <div class="position-relative form-group">
+                <label for="name" class="">Name</label>
+                @Html.TextBoxFor(i => i.User.Name, new { @class = "form-control" })
+                @Html.ValidationMessageFor(i => i.User.Name)
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="position-relative form-group">
+                <label for="email" class="">Email</label>
+                @Html.TextBoxFor(i => i.User.Email, new { @class = "form-control" })
+                @Html.ValidationMessageFor(i => i.User.Email)
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="position-relative form-group">
+                <label for="phone" class="">Phone</label>
+                @Html.TextBoxFor(i => i.User.Phone, new { @class = "form-control" })
+                @Html.ValidationMessageFor(i => i.User.Phone)
+            </div>
+        </div>
+    </div>
+
+        <div class="form-row">
+            
+
+        </div>
+
+
+        <button type="submit" style="background-color:#256154" class="editbtn">Add</button>
+    }
+</div>
+
+
+
+

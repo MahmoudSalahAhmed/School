@@ -1,0 +1,72 @@
+﻿@using ViewModels
+@model ScheduleViewModel
+
+
+<br><br>
+<div class="row">
+    <a href="@Url.Action("Add", "Schedule")" class="editbtn"><i class="fa fa-chevron-left" style="margin-right: 20px;"></i>Go back</a>
+</div>
+<br>
+<div class="card-body">
+    <h5 class="card-title" style="color:#980827">Update Student </h5>
+
+    @using (Html.BeginForm("Update", "Schedule", FormMethod.Post))
+    {
+        <div class="form-row">
+            <div class="col-md-4">
+                <div class="position-relative form-group">
+                    <label for="name" class="">ClassRoom</label>
+                    @Html.DropDownListFor(i => i.ClassRoomID, new SelectList(ViewBag.Classes, "ID", "Name"), new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="position-relative form-group">
+                    <label for="name" class="">ClassRoom</label>
+                    @Html.DropDownListFor(i => i.DayID, new SelectList(ViewBag.Days, "ID", "Name"), new { @class = "form-control" })
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" style="background-color:#256154" class="editbtn">Update</button>
+    }
+
+</div>
+<br />
+<div class="row">
+    @if (ViewBag.ClassR.Schedules != null)
+    {
+
+
+        <table class="mb-2 table table-hover table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Days</th>
+                    <th>Delete</th>
+                    <th>Add Lessons</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var Schedule in ViewBag.ClassR.Schedules)
+                {
+                <tr>
+                    <td><strong>@Schedule.Day.Name</strong></td>
+                   
+                    <td>
+                        <a href="@Url.Action("Delete","Schedule", new { id = Schedule.ID })" class="fa fa-trash"
+                           aria-hidden="true" style="font-size:25px ; color :#821d1d">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="@Url.Action("Add","ScheduleLesson", new { id = Schedule.ID })" class="fa fa-long-arrow-right"
+                           aria-hidden="true" style="font-size:30px ; color :#7d34e6"></a>
+                    </td>
+                </tr>
+                }
+
+            </tbody>
+        </table>
+    }
+</div>
+
+
+

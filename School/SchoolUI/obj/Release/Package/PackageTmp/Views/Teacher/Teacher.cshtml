@@ -1,0 +1,49 @@
+﻿@using ViewModels
+@model IEnumerable<TeacherViewModel>
+
+
+<br><br>
+<div class="row">
+    @Html.ActionLink("New Techer", "Add", "Teacher", null, new { @class = "editbtn" })
+</div>
+<br>
+<table class="mb-2 table table-hover table-striped card-body">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>E-mail</th>
+            <th>Phone</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (TeacherViewModel Teacher in Model)
+        {
+        <tr>
+            <th scope="row">@Teacher.ID</th>
+            <td>@Teacher.User.Name </td>
+            <td>@Teacher.User.Email</td>
+            <td>@Teacher.User.Phone</td>
+            <td>
+                <a href="@Url.Action("Update","Teacher", new { id = Teacher.ID })" class="fa fa-pencil"
+                   aria-hidden="true" style="font-size:25px ; color :#17700f">
+                </a>
+            </td>
+            <td>
+                <a href="@Url.Action("Delete","Teacher", new { id = Teacher.ID })" class="fa fa-trash" 
+                   aria-hidden="true" style="font-size:25px ; color :#821d1d">
+                </a>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>
+
+
+
+
+
+

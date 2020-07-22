@@ -1,0 +1,17 @@
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\Services.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\Services.pdb
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\Entities.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\Repositories.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\ViewModels.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\EntityFramework.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\Entities.pdb
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\Entities.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\Repositories.pdb
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\Repositories.dll.config
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\ViewModels.pdb
+E:\New folder (2)\School-Management-System\EchoTask\Services\bin\Release\EntityFramework.xml
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Release\Services.csprojAssemblyReference.cache
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Release\Services.csproj.CoreCompileInputs.cache
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Release\Services.csproj.CopyComplete
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Release\Services.dll
+E:\New folder (2)\School-Management-System\EchoTask\Services\obj\Release\Services.pdb

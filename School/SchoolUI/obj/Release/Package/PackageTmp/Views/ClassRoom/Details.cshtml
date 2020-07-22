@@ -1,0 +1,81 @@
+﻿@using ViewModels
+@model ClassRoomViewModel
+
+
+<br /><br />
+<div class="card-body">
+    <h2>Schedule</h2>
+</div>
+<br />
+        <div class="main-card mb-3 card">
+            <div class="card-body">
+                <h4 class="card-title"><strong>@Model.Name :-</strong> Schedule </h4>
+                <br />
+                 @Html.ActionLink("Go To Add Days And Lessons", "Add", "Schedule", new { id = Model.ID }, new { @class = "editbtn" })
+               
+                <table class="mb-2 table table-hover table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Days/Lessons</th>
+                            
+                                @foreach (var Lesson in ViewBag.Lessons)
+                                {
+                                    <th><strong>Lesson : @Lesson.Name</strong></th>
+                                }
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var Schedule in Model.Schedules)
+                        {
+                            <tr>
+                                <th><strong>@Schedule.Day.Name</strong></th>
+                                @foreach (var ScheduleLesson in Schedule.ScheduleLessons)
+                                {
+                                    <td>@ScheduleLesson.Subject.Name/<small>@ScheduleLesson.Teacher.User.Name</small></td>
+                                }
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    
+    
+    <br />
+
+    <div class="main-card mb-3 card ">
+        <div class="card-body">
+            <h4 class="card-title">Students</h4>
+            <br />
+
+            <table class="mb-2 table table-hover table-striped table-bordered">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Phone</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var Student in Model.Students)
+                    {
+                        <tr>
+                            <th><strong>@Student.User.Name</strong></th>
+                            <th><strong>@Student.User.Phone</strong></th>
+                            <td>
+                                <a href="@Url.Action("Details","Student", new { id = Student.ID })" class="fa fa-long-arrow-right"
+                                   aria-hidden="true" style="font-size:30px ; color :#7d34e6"></a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+
+        </div>
+        </div>
+    

@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@using ViewModels
+@model IEnumerable<ClassRoomViewModel>
+
+<br><br>
+<div class="row">
+    @Html.ActionLink("Add Class", "Add", "ClassRoom", null, new { @class = "editbtn" })
+</div>
+<br>
+<div class="card-body">
+    <h5 class="card-title" style="color:#980827">Classes Index</h5>
+
+    <table class="mb-2 table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>...</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (ClassRoomViewModel classRoom in Model)
+            {
+                <tr>
+                    <th scope="row">@classRoom.ID</th>
+                    <td>@classRoom.Name</td>
+                    <td>
+                        <div class=" dropdown">
+                            <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn-icon btn-icon-only btn btn-link">
+                                <i class="fa fa-ellipsis-h"></i>
+                            </button>
+                            <div tabindex="-1" role="menu" aria-hidden="true" class="dropdown-menu-shadow dropdown-menu-hover-link dropdown-menu kh-tb-drop">
+                                <a class="dropdown-item mm-active">
+                                    @Html.ActionLink("Schdule", "Details", "ClassRoom", new { id = classRoom.ID }, new { @class = "dropdown-icon lnr-inbox" })
+                                </a>
+                                <a class="dropdown-item">
+                                    @Html.ActionLink("Edit", "Update", "ClassRoom", new { id = classRoom.ID }, new { @class = "dropdown-icon lnr-inbox" })
+                                </a>
+
+                                <a class="dropdown-item">
+                                    @Html.ActionLink("Delete", "Delete", "ClassRoom", new { id = classRoom.ID }, new { @class = "dropdown-icon lnr-inbox" })
+                                </a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+</div>
+
+
+
